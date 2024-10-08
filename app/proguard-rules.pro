@@ -15,3 +15,4 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+#   http://developer.android.com/guide/developing/tools/proguard.html
